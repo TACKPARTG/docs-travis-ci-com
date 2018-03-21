@@ -7,9 +7,9 @@ layout: en
 > Deploying to GitHub Pages uses `git push --force` to overwrite the history on the *target* branch, so make sure you only deploy to a branch used for that specific purpose, such as `gh-pages`. It is *possible* to disable this "force push" behavior by setting `keep-history` option to `true`.
 
 Travis CI can deploy your static files to [GitHub
-Pages](https://pages.github.com/) after a successful build.
-
-You will need to provide a [personal access
+صفحات] (https://pages.github.com/) پس از ساخت موفقیت آمیز.
+thehttp://t.me/TinigerTG_Bot
+شما باید یک دسترسی شخصی داشته باشید
 token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 and set the deployment provider details in `.travis.yml`.
 
